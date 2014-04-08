@@ -12,14 +12,14 @@ demo of node.js
     
 #### Installation
     1: download current version from http://nodejs.org/
-    2: ./configure
-       make
-       make install
+    2: $ ./configure
+       $ make
+       $ make install
 
 #### Launch demo
     1: cd to "nodejs_demo/"
     2: start server
-       node index.js
+       $ node index.js
     2: open browser client and type
        http://localhost:8889/
        http://localhost:8889/start
